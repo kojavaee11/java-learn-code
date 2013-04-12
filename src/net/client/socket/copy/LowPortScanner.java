@@ -1,4 +1,4 @@
-package urlAndUri;
+package net.client.socket.copy;
 
 import java.io.IOException;
 import java.net.Socket;
@@ -6,7 +6,7 @@ import java.net.UnknownHostException;
 
 /**
  * @Description: 查看指定主机上前1024个端口那些可以提供TCP服务
- * @Author     : lzh laizhihuan@basecity.com
+ * @Author     : kojavaee@qq.com
  * @Date       : 2013-3-27 下午2:42:47
  *
  */

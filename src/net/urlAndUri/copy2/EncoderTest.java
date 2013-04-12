@@ -1,4 +1,4 @@
-package urlAndUri;
+package net.urlAndUri.copy2;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;

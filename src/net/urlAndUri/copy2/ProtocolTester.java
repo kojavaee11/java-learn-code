@@ -1,4 +1,4 @@
-package urlAndUri;
+package net.urlAndUri.copy2;
 
 import java.net.MalformedURLException;
 import java.net.URL;
