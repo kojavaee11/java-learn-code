@@ -17,7 +17,6 @@ public class DuckAdapter implements Turkey {
 	/** 
 	 * @see design.adapter.Turkey#gobble()
 	 */
-	@Override
 	public void gobble() {
 		duck.quack();
 	}
@@ -25,7 +24,6 @@ public class DuckAdapter implements Turkey {
 	/** 
 	 * @see design.adapter.Duck#fly()
 	 */
-	@Override
 	public void fly() {
 		if(randmon.nextInt(5) == 0) {
 			duck.fly();

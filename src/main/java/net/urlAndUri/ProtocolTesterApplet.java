@@ -1,4 +1,4 @@
-package net.urlAndUri.copy2;
+package net.urlAndUri;
 
 import java.applet.Applet;
 import java.awt.BorderLayout;

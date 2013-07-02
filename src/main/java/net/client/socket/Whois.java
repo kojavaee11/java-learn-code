@@ -1,4 +1,4 @@
-package net.client.socket.copy;
+package net.client.socket;
 
 import java.io.IOException;
 import java.io.InputStreamReader;
