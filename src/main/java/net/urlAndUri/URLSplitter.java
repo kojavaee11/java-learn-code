@@ -5,7 +5,7 @@ import java.net.URL;
 
 /**
  * @Description: URL各部分
- * @Author     : lzh laizhihuan@basecity.com
+ * @Author     : lzh kojavaee@qq.com
  * @Date       : 2013-3-24 上午11:19:57
  *
  */

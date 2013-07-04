@@ -8,7 +8,7 @@ import java.net.URL;
 
 /**
  * @Description: 相对于该web页面的URL
- * @Author     : lzh laizhihuan@basecity.com
+ * @Author     : lzh kojavaee@qq.com
  * @Date       : 2013-3-24 上午7:49:00
  *
  */

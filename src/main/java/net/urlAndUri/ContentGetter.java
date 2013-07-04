@@ -6,7 +6,7 @@ import java.net.URL;
 
 /**
  * @Description: download object
- * @Author     : lzh laizhihuan@basecity.com
+ * @Author     : lzh kojavaee@qq.com
  * @Date       : 2013-3-24 下午12:12:07
  *
  */

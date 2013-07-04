@@ -8,7 +8,7 @@ import java.net.URL;
 
 /**
  * @Description: protocol测试器 applet版本
- * @Author     : lzh laizhihuan@basecity.com
+ * @Author     : lzh kojavaee@qq.com
  * @Date       : 2013-3-24 上午7:25:56
  *
  */
