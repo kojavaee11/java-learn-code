@@ -19,3 +19,4 @@ example.log
 *.class
 logs/
 .lein-deps-sum
+*.sql
